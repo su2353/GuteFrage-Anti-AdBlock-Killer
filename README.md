@@ -1,4 +1,4 @@
-# GuteFrage-Adblock-Blocker-Killer
+#  GuteFrage Anti-AdBlock-Killer
 
 Removes the annoying AdBlock-banner on the German site "Gutefrage.net".
 
