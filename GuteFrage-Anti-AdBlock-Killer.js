@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         GuteFrage Anti-AdBlock-Killer
 
-// @description  Removes the annoying adblock-reminder on German site "Gutefrage.net".
-// @description:de Entfernt das nervige Adblock-Banner auf GuteFrage.net.
+// @description Entfernt das nervige Adblock-Banner auf GuteFrage.net.
+// @description:en  Removes the annoying adblock-reminder on German site "Gutefrage.net".
 
 // @version      1.0
 // @author       Rsge
